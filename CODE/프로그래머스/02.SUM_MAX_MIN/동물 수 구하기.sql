@@ -1,0 +1,3 @@
+-- 동물의 수
+SELECT COUNT(*) count
+FROM ANIMAL_INS;

@@ -1,4 +1,4 @@
--- Active: 1709120082764@@127.0.0.1@1521@orcl@SYSTEM
+-- Active: 1709601465263@@127.0.0.1@1521@orcl@JOEUN
 -- 1. system 계정에 접속하는 SQL
 conn system/123456
 
