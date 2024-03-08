@@ -1,11 +1,11 @@
--- Active: 1709601465263@@127.0.0.1@1521@orcl@JOEUN
+-- Active: 1709120082764@@127.0.0.1@1521@orcl@SYSTEM
 -- 1. system 계정에 접속하는 SQL
 conn system/123456
 
 -- 2. HR 계정이 있는지 확인하는 SQL
 SELECT *
 FROM all_users
-WHERE username = 'HR'
+-- WHERE username = 'HR'
 ;
 
 -- HR이 있을 때, 계정 잠금 해제

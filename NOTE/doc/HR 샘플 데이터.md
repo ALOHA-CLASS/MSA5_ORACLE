@@ -1,0 +1,10 @@
+-- hr_main.sql 실행하여 HR 샘플 데이터 가져오기
+-- 1. SQL PLUS 
+-- 2. HR 계정으로 접속
+-- 3. 명령어 입력 : @[경로]\hr_main.sql
+--    @? : 오라클 설치된 기본 경로
+--    @?/demo/schema/human_resources/hr_main.sql
+--> 1  : 123456 [비빌번호]
+--> 2  : users [tablespace]  
+--> 3  : temp [temp tablespace]
+--> 4  : [log 경로] - C:\KHM\SETUP\WINDOWS.X64_193000_db_home\demo\schema\log
