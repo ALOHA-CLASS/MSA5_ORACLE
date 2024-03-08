@@ -4,13 +4,13 @@
   "settings": {
     "width": 2000,
     "height": 2000,
-    "scrollTop": -168.0123,
-    "scrollLeft": -227.6301,
+    "scrollTop": -121.0123,
+    "scrollLeft": -171.6301,
     "zoomLevel": 0.8,
     "show": 431,
     "database": 4,
     "databaseName": "",
-    "canvasType": "@dineug/erd-editor/builtin-schema-sql",
+    "canvasType": "ERD",
     "language": 1,
     "tableNameCase": 4,
     "columnNameCase": 2,
@@ -75,7 +75,7 @@
           "color": ""
         },
         "meta": {
-          "updateAt": 1709871546073,
+          "updateAt": 1709881234369,
           "createAt": 1709870867345
         }
       },
@@ -104,7 +104,7 @@
           "color": ""
         },
         "meta": {
-          "updateAt": 1709871564649,
+          "updateAt": 1709881234369,
           "createAt": 1709871215083
         }
       },
@@ -137,7 +137,7 @@
           "color": ""
         },
         "meta": {
-          "updateAt": 1709871559411,
+          "updateAt": 1709881234370,
           "createAt": 1709871317300
         }
       }
@@ -159,7 +159,7 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1709871141369,
+          "updateAt": 1709881234369,
           "createAt": 1709870939511
         }
       },
@@ -179,7 +179,7 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1709871144771,
+          "updateAt": 1709881234369,
           "createAt": 1709870953028
         }
       },
@@ -199,7 +199,7 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1709871151699,
+          "updateAt": 1709881234369,
           "createAt": 1709871012721
         }
       },
@@ -219,7 +219,7 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1709871155064,
+          "updateAt": 1709881234369,
           "createAt": 1709871032603
         }
       },
@@ -239,7 +239,7 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1709871158146,
+          "updateAt": 1709881234369,
           "createAt": 1709871072506
         }
       },
@@ -259,7 +259,7 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1709871161399,
+          "updateAt": 1709881234369,
           "createAt": 1709871085879
         }
       },
@@ -279,7 +279,7 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1709871165488,
+          "updateAt": 1709881234369,
           "createAt": 1709871096669
         }
       },
@@ -319,7 +319,7 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1709871311130,
+          "updateAt": 1709881234369,
           "createAt": 1709871231533
         }
       },
@@ -339,7 +339,7 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1709871295759,
+          "updateAt": 1709881234369,
           "createAt": 1709871247423
         }
       },
@@ -359,7 +359,7 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1709871299621,
+          "updateAt": 1709881234369,
           "createAt": 1709871265689
         }
       },
@@ -379,7 +379,7 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1709871301275,
+          "updateAt": 1709881234369,
           "createAt": 1709871277280
         }
       },
@@ -399,7 +399,7 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1709871400304,
+          "updateAt": 1709881234370,
           "createAt": 1709871336051
         }
       },
@@ -419,7 +419,7 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1709871408497,
+          "updateAt": 1709881234370,
           "createAt": 1709871349882
         }
       },
@@ -439,7 +439,7 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1709871411664,
+          "updateAt": 1709881234370,
           "createAt": 1709871363040
         }
       },
@@ -459,7 +459,7 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1709871415473,
+          "updateAt": 1709881234370,
           "createAt": 1709871377506
         }
       },
@@ -479,7 +479,7 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1709871500208,
+          "updateAt": 1709881234370,
           "createAt": 1709871500207
         }
       },
@@ -499,7 +499,7 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1709871526064,
+          "updateAt": 1709881234370,
           "createAt": 1709871526063
         }
       }
